@@ -4,7 +4,7 @@ import static org.junit.Assert.assertEquals;
 
 import org.junit.Test;
 
-public class CuentaCorrienteTest {
+public class Cuenta2Test {
 	
 	@Test
 	public void DepositarEnCuenta(){
