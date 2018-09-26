@@ -21,3 +21,5 @@ public class Rectangulo {
 		}
 
 }
+
+//Esto es solo un comentario para que quede constancia de que se usar git :D.
